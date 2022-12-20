@@ -1837,6 +1837,16 @@
 			]
 		},
 		{
+			"name": "Rome Formatter",
+				"details": "https://github.com/marekpiechut/sublime-rome-formatter",
+				"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RON",
 			"description": "Rusty Object Notation syntax scheme",
 			"author": "kvark",
